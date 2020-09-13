@@ -33,5 +33,6 @@
 
 10. Отчёт продолжает писаться. 
 
-#11.  
- 
+11. а) Был добавлен файл filewhosemustbeignored.txt и .gitignore. В файл .gitignore была добавлена строка filewhosemustbeignored.txt.
+       Данный файл игнорируется git'ом.
+    б) 
